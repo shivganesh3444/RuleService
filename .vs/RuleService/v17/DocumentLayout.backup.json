@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FullstackApp\\RuleService\\RuleService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAED4D2-F37F-4401-8479-878DD69B6F1F}|RuleService\\RuleService.csproj|c:\\fullstackapp\\ruleservice\\ruleservice\\ruleservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAED4D2-F37F-4401-8479-878DD69B6F1F}|RuleService\\RuleService.csproj|solutionrelative:ruleservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\FullstackApp\\RuleService\\RuleService\\RuleService\\Class1.cs",
+              "RelativeDocumentMoniker": "RuleService\\Class1.cs",
+              "ToolTip": "C:\\FullstackApp\\RuleService\\RuleService\\RuleService\\Class1.cs",
+              "RelativeToolTip": "RuleService\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:46:28.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
